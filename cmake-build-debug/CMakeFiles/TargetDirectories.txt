@@ -1,0 +1,3 @@
+C:/Users/majid/OneDrive - Oxford Brookes University/CandC++/Smart/cmake-build-debug/CMakeFiles/Smart.dir
+C:/Users/majid/OneDrive - Oxford Brookes University/CandC++/Smart/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/majid/OneDrive - Oxford Brookes University/CandC++/Smart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
